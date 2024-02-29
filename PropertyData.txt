@@ -1,0 +1,6 @@
+CREATE TABLE Tickets (
+    TicketNumber INT PRIMARY KEY,
+    TicketDescription VARCHAR(255),
+    Location VARCHAR(255),
+    Person VARCHAR(255)
+);
